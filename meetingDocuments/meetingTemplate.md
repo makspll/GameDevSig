@@ -1,5 +1,13 @@
 # Meeting <number> - <day>/<month>/<year last 2 digits>
 
+## Attendance
+
+### Present
+Yannik Nelson, Maksymilian Mozolewski, Rokas Goudevuikeuasidaijajsidjqa
+
+### Absent
+Donald Trump
+
 ## Agenda
 
 1. Yannik needs to get vibe checked
