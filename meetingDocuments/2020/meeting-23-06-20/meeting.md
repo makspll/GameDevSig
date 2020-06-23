@@ -3,10 +3,10 @@
 ## Attendance
 
 ### Present
-Yannik Nelson, Maksymilian Mozolewski, Rokas Goudevuikeuasidaijajsidjqa
+Yannik Nelson, Maksymilian Mozolewski(taking minutes), Rokas Gudavičius
 
 ### Absent
-Donald Trump
+-
 
 ## Agenda
 
