@@ -42,7 +42,7 @@ none
 			- Better access to  higher quality events in their area of interest, under their existing membership
 			- etc..
 
-	CompSoc then privately discussed this matter, and performed a vote which concluded with all their members agreeing that we should become a SIG
+	CompSoc then privately discussed this matter, and performed a vote which concluded with all their present committee members agreeing that we should become a SIG
 	
 		
 	
