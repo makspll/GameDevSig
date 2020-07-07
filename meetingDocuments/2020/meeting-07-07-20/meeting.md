@@ -6,7 +6,7 @@
 Yannik Nelson, Maksymilian Mozolewski
 
 ### Absent
-- Rokas Goudevickus
+Rokas Gudavičius
 
 ## Agenda
 1. Further discussion about Freshers Events
