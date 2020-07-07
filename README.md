@@ -1,4 +1,4 @@
-ls# GameDevSig
+# GameDevSig
 minutes and other stuff
 
 
