@@ -16,7 +16,7 @@ Rokas Gudavičius
 1.
 	- Joint event with CompSoc is confirmed now, we will be joining their yearly Game Night.
 	
-	- Talk carried out by "Norg".
+	- Ask "Norg" to carry out the first talk.
 	
 	- First game making Workshop prepared by Maks.
 
