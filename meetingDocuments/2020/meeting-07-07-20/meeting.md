@@ -6,7 +6,7 @@
 Yannik Nelson, Maksymilian Mozolewski
 
 ### Absent
-- Rokas Goudevickus
+Rokas Gudavičius
 
 ## Agenda
 1. Further discussion about Freshers Events
@@ -16,7 +16,7 @@ Yannik Nelson, Maksymilian Mozolewski
 1.
 	- Joint event with CompSoc is confirmed now, we will be joining their yearly Game Night.
 	
-	- Talk carried out by "Norg".
+	- Ask "Norg" to carry out the first talk.
 	
 	- First game making Workshop prepared by Maks.
 
